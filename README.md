@@ -1,6 +1,6 @@
 # Eagles-Commerce
 
-# Week 13 Object-Relational Mapping (ORM): E-Commerce Back End
+# Object-Relational Mapping (ORM): E-Commerce Back End
 
 In this week's homework my task was to build the back end for an e-commerce site. I configured a working Express.js API to use Sequelize to interact with a MySQL database.
 
